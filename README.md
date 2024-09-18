@@ -1,2 +1,2 @@
 # LProject
-a new test ftom 2024/9/18
+a new test from 2024/9/18
